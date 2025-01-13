@@ -1,0 +1,12 @@
+{
+    "name": "hxLibMappedMemory",
+    "url" : "https://github.com/Slushi-Github/hxLibMappedMemory",
+    "license": "Apache",
+    "tags": ["native"],
+    "description": "Haxe @:native bindings for libmappedmemory for the Wii U.",
+    "version": "1.0.0",	
+    "releasenote": "",
+    "contributors": ["Slushi"],
+    "dependencies": {
+    }
+}
